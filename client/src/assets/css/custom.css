@@ -1,0 +1,18 @@
+.navbar-light .navbar-nav .nav-link.active{color:rgb(244 136 64) !important;}
+.icon-style{color: #f48840;margin-right: 5px;font-size: 14px;}
+.c-b{color: #000000 !important;}
+.navbar-nav a{color: #000000;}
+.loader-size{width: 180px;height: 180px;}
+.error-text{color: rgb(216, 27, 27);}
+.contact-us .contact-form select {
+    width: 100%;
+    height: 46px;
+    border: 1px solid #eee;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #7a7a7a;
+    outline: none;
+    padding: 0px 15px;
+    margin-bottom: 30px;
+}
